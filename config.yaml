@@ -1,8 +1,0 @@
-contentdir: "content"
-layoutdir: "layouts"
-publishdir: "public"
-indexes:
-  category: "categories"
-baseurl: "http://terratenney.github.io/code"
-title: "CODE - Community Open Data Engage"
-canonifyurls: true
